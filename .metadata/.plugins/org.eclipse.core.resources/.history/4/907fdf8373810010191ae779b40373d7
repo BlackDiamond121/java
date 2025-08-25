@@ -14,4 +14,3 @@ public class Hello {
 		System.out.println("Hello, Java");
 	}// end of main
 }// end of class Hello
-//
