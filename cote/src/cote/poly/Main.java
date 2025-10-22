@@ -12,5 +12,10 @@ public class Main {
 		for(Animal a:myAnimals) {
 			System.out.println(a.hello());
 		}
+		/*
+		 for(int i = 0; i < myAnimals.length; i++) {
+		 Animal a = myAnimals[i];
+		 System.out.println(a.hello());
+		*/
 	}
 }
